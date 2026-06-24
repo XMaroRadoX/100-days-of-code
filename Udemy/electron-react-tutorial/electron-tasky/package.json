@@ -21,7 +21,7 @@
     "electron-localshortcut": "^1.1.1",
     "electron-notify": "^0.1.0",
     "electron-traywindow-positioner": "0.0.2",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "moment-duration-format": "^1.3.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
